@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MiniCompiler/MiniCompiler.vcxproj" Id="6e9a9e85-5c09-4975-9331-870555cbeb50" />
+</Solution>
