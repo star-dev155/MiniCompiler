@@ -6,8 +6,6 @@ A lightweight compiler project
 
 MiniCompiler is a personal software development project focused on understanding how compilers interpret and process source code.
 
-The project provides a foundation for experimenting with compiler architecture, parsing techniques, and the transformation of source code into a representation that can be processed by a computer.
-
 ## Getting Started
 
 ### 1. Clone the repository
