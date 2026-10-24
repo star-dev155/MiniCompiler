@@ -42,7 +42,3 @@ MiniCompiler/
 ## Contributing
 
 Suggestions, feedback, and contributions are welcome.
-
-## Author
-
-Developed by [star-dev155](https://github.com/star-dev155).
